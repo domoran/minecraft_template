@@ -1,0 +1,12 @@
+name: PluginTemplate
+main: net.dein_universum.Template
+version: 0.1.0
+author: dev
+api-version: 1.8
+load: POSTWORLD
+
+commands:
+  du:
+    description: Put your commands here ...
+    usage: /du [subcommand]
+    aliases: "deinuniversum"
